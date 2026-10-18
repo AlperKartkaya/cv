@@ -1,0 +1,153 @@
+summary: >
+  Fourth-year Computer Engineering student at Bogazici University focused on
+  AI-driven software development. Interested in agentic/context engineering,
+  machine learning, distributed systems, and computer networks. Eager to build
+  robust software through hands-on projects.
+
+contacts:
+  name: Alper Kartkaya
+  title: Computer Engineering Student
+  email: alperkartkaya@gmail.com
+  phone: ""
+  address: ""
+  linkedin:
+    url: https://www.linkedin.com/in/alper-kartkaya-boun-cmpe
+    displayText: LinkedIn
+  github:
+    url: https://github.com/alperkartkaya
+    displayText: GitHub
+
+skills:
+  - name: Programming
+    items:
+      - Python
+      - C/C++
+      - Java
+      - JavaScript
+      - React
+      - TypeScript
+      - SQL
+  - name: Computer Science
+    items:
+      - Data Structures
+      - Algorithms
+      - OOP
+      - Operating Systems
+      - Computer Networks
+      - Distributed Systems
+  - name: Software Development
+    items:
+      - CI/CD
+      - Debugging
+      - Git
+      - REST APIs
+      - Testing
+      - Frontend
+      - Backend
+  - name: AI and Data
+    items:
+      - Machine Learning
+      - LLMs
+      - Transformers
+      - Computer Vision
+      - NLP
+      - RAG
+  - name: Tools and Databases
+    items:
+      - MySQL
+      - SQLite
+      - Wireshark
+      - Linux
+      - AWS
+      - EC2/Nginx
+  - name: Agentic Engineering
+    items:
+      - LLM Orchestration
+      - MCP
+      - Agent Workflows
+      - Tool Use
+      - OpenCode
+      - OmO/OmX
+  - name: Working Style
+    items:
+      - Creativity
+      - Troubleshooting
+      - Leadership
+      - Problem Solving
+      - Project Organization
+      - Systems Thinking
+  - name: Languages
+    items:
+      - Turkish
+      - English
+      - French
+
+jobs:
+  - position: Builder & Founder
+    title_size: 14pt
+    company:
+      name: izge
+      link: https://izge.dev
+    description:
+      - Building an on-premise, local AI workspace for safety-critical industries, connecting company documents, conversations, and decisions into shared organizational memory.
+      - Developing source-grounded answers and in-chat AI assistance to surface relevant context and draft customer replies for human review.
+    period: Apr. 2026 - Present
+    tags:
+      - On-premise AI
+      - Local LLMs
+      - Organizational Memory
+      - AI Workflows
+
+  - position: Software Engineer Intern
+    title_size: 14pt
+    company:
+      name: Turkish Technology
+      link: https://turkishtechnology.com/tr
+    description:
+      - Developed an MCP-based service that enables LLMs to access and retrieve relevant information from internal knowledge resources.
+      - Contributed to natural-language search and relevance-based discovery workflows for enterprise data assets.
+    period: Aug. 2026 - Sep. 2026 — 1 month
+    tags:
+      - MCP
+      - LLM Tool Use
+      - Information Retrieval
+      - SQL
+
+  - position: Artificial Intelligence Software Development Intern
+    title_size: 14pt
+    company:
+      name: BAYKAR Technology
+      link: https://baykartech.com/en/
+    description:
+      - Contributed as an Artificial Intelligence Software Development intern in a fast-paced engineering environment.
+      - Applied practical software engineering, troubleshooting, and project organization skills to AI-focused development work.
+    periods:
+      - Aug. 2025 - Nov. 2025 — 4 months
+      - Mar. 2026 - May 2026 — 3 months
+    tags:
+      - Artificial Intelligence
+      - Software Development
+      - Machine Learning
+      - Engineering Practice
+
+focus:
+  - Motivated to apply a strong theoretical foundation to practical system design, turning computer science concepts into working software architectures.
+  - Focused on designing and building software systems end to end, from product requirements and architecture to implementation and deployment.
+  - Interested in AI, distributed systems, and computer networks as engineering domains for robust, inspectable, and maintainable products.
+
+achievements:
+  - title: "National university entrance exam YKS'22 rank: 253rd"
+    description: >
+      Ranked 253rd among roughly 3 million students in Turkey's national
+      university entrance exam, earning admission to Bogazici University
+      Computer Engineering, one of the country's most selective programs.
+
+education:
+  - place:
+      name: Bogazici University
+      link: https://bogazici.edu.tr/en-US/
+    degree: B.Sc.
+    major: Computer Engineering
+    gpa: 3.21/4
+    from: "2022"
+    to: "2027"

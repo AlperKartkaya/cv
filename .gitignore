@@ -1,0 +1,7 @@
+# macOS metadata
+.DS_Store
+
+# Local agent state, font files, and verification renders
+.omx/
+/fonts/
+/rendered/
